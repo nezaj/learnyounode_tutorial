@@ -1,4 +1,4 @@
-## Learnyounode Tutorial
-My solutions to NodeSchool's [learnyounode tutorial][learnyounode]
+## NodeSchool workshop solutions
+My solutions to NodeSchool's [workshops][nodeschool]
 
-[learnyounode]: https://github.com/rvagg/learnyounode
+[nodeschool]: http://nodeschool.io/
